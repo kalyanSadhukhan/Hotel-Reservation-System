@@ -107,7 +107,3 @@ Contributions are what make the open-source community such an amazing place to l
 
 Project Link: [https://github.com/kalyanSadhukhan/Hotel-Reservation-System](https://github.com/kalyanSadhukhan/Hotel-Reservation-System)
 
----
-
-> [!TIP]
-> **Pro Tip:** Adding a GIF or screenshots of the console output here would make this project stand out even more to recruiters!
